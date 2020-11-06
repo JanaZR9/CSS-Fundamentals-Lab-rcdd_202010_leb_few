@@ -31,5 +31,5 @@ img {
   #details-div {
     float: left;
     text-align: center;
-    
+    min-width: 25%;
   }
